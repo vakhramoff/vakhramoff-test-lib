@@ -1,6 +1,6 @@
 {
   "name": "@vakhramoff/test-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Test library.",
   "main": "index.js",
