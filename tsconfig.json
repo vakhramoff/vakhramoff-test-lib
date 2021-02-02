@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "lib": ["es2020"],
+  "compileOnSave": false,
+  "exclude": ["node_modules"]
+}
